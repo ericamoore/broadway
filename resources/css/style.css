@@ -13,10 +13,7 @@ h1 {font-size: 70px;
 font-weight: bold;
 }
 
-#nav li{
-  list-style-type:none;
-  padding-bottom: 10px;
-  position: relative;
+#nav {font-size: 18px;
 }
 
 h2 {font-size: 32px;
@@ -28,4 +25,13 @@ font-weight: bold;
 }
 
 p {font-size: 14px;
+}
+
+footer {font-size: 11px;
+background-color: dimgrey;
+text-align: left;
+color: white;
+}
+
+a {color: white;
 }
